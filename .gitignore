@@ -31,3 +31,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+config.bat
+node_modules
