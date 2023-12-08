@@ -14,7 +14,6 @@ _vendor-*
 docs/public/
 fixtures/formats/Sphinx/_build/
 
-.vscode
 .idea
 .fleet
 
@@ -35,3 +34,5 @@ fixtures/formats/Sphinx/_build/
 
 .github/styles/*
 !.github/styles/Vocab/Vale
+config.bat
+node_modules
