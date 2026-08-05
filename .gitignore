@@ -14,7 +14,6 @@ _vendor-*
 docs/public/
 fixtures/formats/Sphinx/_build/
 
-.vscode
 .idea
 .fleet
 
@@ -45,3 +44,9 @@ fixtures/formats/Sphinx/_build/
 
 .github/styles/config/vocabularies/*
 !.github/styles/config/vocabularies/Vale
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
